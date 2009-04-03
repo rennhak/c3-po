@@ -1,0 +1,3 @@
+Initially this tool will be a standalone tool with a pregenerated Database which can be manually
+updated. Later this tool will work together with a website frontend where people can add specific
+prices directly or point to a pricelist which we will use for our database generation.
