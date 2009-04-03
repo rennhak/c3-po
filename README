@@ -1,3 +1,20 @@
+C3-PO
+-----
+
+The "Cloud Computing Cost Prognosis Tool" is useful if you want to find out if it makes sense to use
+migrate your server to some Cloud Computing solution or not.
+
+
+
+TODO
+----
+
+o Support via JSON, YAML, or whatever format a flexible way to change cost parameters
+o Easy configuration
+o Different Modes, Detailed for interactive usage and fast for scripting support.
+
+
+
 
 
 (C) 2009, Bjoern Rennhak, under an MIT licence. http://www.opensource.org/licenses/mit-license.php
