@@ -6,13 +6,6 @@ migrate your server to some Cloud Computing solution or not.
 
 
 
-TODO
-----
-
-o Support via JSON, YAML, or whatever format a flexible way to change cost parameters
-o Easy configuration
-o Different Modes, Detailed for interactive usage and fast for scripting support.
-
 
 
 
